@@ -10,15 +10,14 @@ You can connect with me on <a href="https://www.linkedin.com/in/redsskull/" targ
 
 ## Badges
 
-[![@redsskull's Holopin board](https://holopin.me/redsskull)](https://holopin.io/@redsskull)
+### Achievements & Badges
 
-### Hackathon Achievements
+<a href="https://holopin.io/@redsskull"><img src="https://holopin.me/redsskull" alt="@redsskull's Holopin board" style="width: 300px; height: auto;"/></a>
 
-[![June 2023 Hackathon: 2nd Place](https://api.eu.badgr.io/public/assertions/XBelXC0ZSc-UTIBJntXnZw/image)](https://eu.badgr.com/public/assertions/XBelXC0ZSc-UTIBJntXnZw)
-
-[![January 2024 Hackathon: Participant](https://api.eu.badgr.io/public/assertions/q5EOL86vQFGkDCru0PLsRg/image)](https://eu.badgr.com/public/assertions/q5EOL86vQFGkDCru0PLsRg)
-
-[![February 2024 Hackathon: Participant](https://api.eu.badgr.io/public/assertions/tedzuFI4QwGqhM3wzQNZjQ/image)](https://eu.badgr.com/public/assertions/tedzuFI4QwGqhM3wzQNZjQ)
+**Hackathon Badges:** 
+<a href="https://eu.badgr.com/public/assertions/XBelXC0ZSc-UTIBJntXnZw"><img src="https://api.eu.badgr.io/public/assertions/XBelXC0ZSc-UTIBJntXnZw/image" alt="June 2023 Hackathon: 2nd Place" width="80"/></a>
+<a href="https://eu.badgr.com/public/assertions/q5EOL86vQFGkDCru0PLsRg"><img src="https://api.eu.badgr.io/public/assertions/q5EOL86vQFGkDCru0PLsRg/image" alt="January 2024 Hackathon: Participant" width="80"/></a>
+<a href="https://eu.badgr.com/public/assertions/tedzuFI4QwGqhM3wzQNZjQ"><img src="https://api.eu.badgr.io/public/assertions/tedzuFI4QwGqhM3wzQNZjQ/image" alt="February 2024 Hackathon: Participant" width="80"/></a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 

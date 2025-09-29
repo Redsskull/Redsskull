@@ -14,11 +14,11 @@ You can connect with me on <a href="https://www.linkedin.com/in/redsskull/" targ
 
 ### Hackathon Achievements
 
-[![June 2023 Hackathon: 2nd Place](https://eu.badgr.com/public/assertions/XBelXC0ZSc-UTIBJntXnZw.png)](https://eu.badgr.com/public/assertions/XBelXC0ZSc-UTIBJntXnZw)
+[![June 2023 Hackathon: 2nd Place](https://api.eu.badgr.io/public/assertions/XBelXC0ZSc-UTIBJntXnZw/image)](https://eu.badgr.com/public/assertions/XBelXC0ZSc-UTIBJntXnZw)
 
-[![January 2024 Hackathon: Participant](https://eu.badgr.com/public/assertions/q5EOL86vQFGkDCru0PLsRg.png)](https://eu.badgr.com/public/assertions/q5EOL86vQFGkDCru0PLsRg)
+[![January 2024 Hackathon: Participant](https://api.eu.badgr.io/public/assertions/q5EOL86vQFGkDCru0PLsRg/image)](https://eu.badgr.com/public/assertions/q5EOL86vQFGkDCru0PLsRg)
 
-[![February 2024 Hackathon: Participant](https://eu.badgr.com/public/assertions/tedzuFI4QwGqhM3wzQNZjQ.png)](https://eu.badgr.com/public/assertions/tedzuFI4QwGqhM3wzQNZjQ)
+[![February 2024 Hackathon: Participant](https://api.eu.badgr.io/public/assertions/tedzuFI4QwGqhM3wzQNZjQ/image)](https://eu.badgr.com/public/assertions/tedzuFI4QwGqhM3wzQNZjQ)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 

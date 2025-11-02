@@ -9,6 +9,7 @@ I'm a Go, Python, Lua and Bash developer, with experience in C, HTML, CSS and Bo
 You can connect with me on <a href="https://www.linkedin.com/in/redsskull/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 ## Badges
+[![An image of @redsskull's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/redsskull)](https://holopin.io/@redsskull)
 <a href="https://eu.badgr.com/public/assertions/XBelXC0ZSc-UTIBJntXnZw"><img src="https://api.eu.badgr.io/public/assertions/XBelXC0ZSc-UTIBJntXnZw/image" alt="June 2023 Hackathon: 2nd Place" width="80"/></a>
 <a href="https://eu.badgr.com/public/assertions/q5EOL86vQFGkDCru0PLsRg"><img src="https://api.eu.badgr.io/public/assertions/q5EOL86vQFGkDCru0PLsRg/image" alt="January 2024 Hackathon: Participant" width="80"/></a>
 <a href="https://eu.badgr.com/public/assertions/tedzuFI4QwGqhM3wzQNZjQ"><img src="https://api.eu.badgr.io/public/assertions/tedzuFI4QwGqhM3wzQNZjQ/image" alt="February 2024 Hackathon: Participant" width="80"/></a>

@@ -79,12 +79,12 @@ func approach(problem Challenge) Solution {
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Redsskull&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Redsskull&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Redsskull&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Redsskull&theme=dark&hide_border=true)
 
 ---
 
-<sup>**Pro tip:** I write CLI tools. If you're looking for a React developer, you're in the wrong place. If you need someone who understands how systems actually work at a low level - let's talk.</sup>
-
 *"I learned every day after bashing my head against the wall - and that's exactly how real programming skills are built."*
+
+<sup>🔧 Focused on backend systems, distributed architecture, and CLI tools. If you're building the engine room, let's connect.</sup>

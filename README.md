@@ -73,6 +73,7 @@ func approach(problem Challenge) Solution {
 <a href="https://eu.badgr.com/public/assertions/XBelXC0ZSc-UTIBJntXnZw"><img src="https://api.eu.badgr.io/public/assertions/XBelXC0ZSc-UTIBJntXnZw/image" alt="June 2023 Hackathon: 2nd Place" width="80"/></a>
 <a href="https://eu.badgr.com/public/assertions/q5EOL86vQFGkDCru0PLsRg"><img src="https://api.eu.badgr.io/public/assertions/q5EOL86vQFGkDCru0PLsRg/image" alt="January 2024 Hackathon: Participant" width="80"/></a>
 <a href="https://eu.badgr.com/public/assertions/tedzuFI4QwGqhM3wzQNZjQ"><img src="https://api.eu.badgr.io/public/assertions/tedzuFI4QwGqhM3wzQNZjQ/image" alt="February 2024 Hackathon: Participant" width="80"/></a>
+🎃 **Hacktoberfest 2024 Contributor** - CI/CD scripts, pytest, open source contributions
 
 ---
 
@@ -83,5 +84,7 @@ func approach(problem Challenge) Solution {
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Redsskull&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
 
 ---
+
+<sup>**Pro tip:** I write CLI tools. If you're looking for a React developer, you're in the wrong place. If you need someone who understands how systems actually work at a low level - let's talk.</sup>
 
 *"I learned every day after bashing my head against the wall - and that's exactly how real programming skills are built."*

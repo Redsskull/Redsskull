@@ -1,4 +1,4 @@
-markdown# 🧠 Building Systems That Think
+# 🧠 Building Systems That Think
 
 **Backend • Distributed Systems • CLI Tools • Systems Programming**
 

@@ -1,4 +1,4 @@
-# 🧠 Building Systems That Think
+**# 🧠 Building Systems That Think
 
 **Backend • Distributed Systems • CLI Tools • Systems Programming**
 
@@ -86,3 +86,4 @@ func approach(problem Challenge) Solution {
 *"I learned every day after bashing my head against the wall - and that's exactly how real programming skills are built."*
 
 <sup>🔧 Focused on backend systems, distributed architecture, and CLI tools. If you're building the engine room, let's connect.</sup>
+**

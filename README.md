@@ -1,36 +1,40 @@
 # 🧠 Building Systems That Think
 
-**Backend • Distributed Systems • CLI Tools • Systems Programming**
+**Backend • Distributed Systems • P2P Networking • Systems Programming**
 
 I'm Nate - a developer who builds intelligent systems from the ground up. I grew up on IRC, Usenet, and Hotline on my dad's Macintosh, so distributed systems and network protocols feel natural to me. I focus on making software that works at the system level, whether that's through terminal interfaces or the occasional GUI when it fits the project.
 
-## What I'm Building
+## What I Build
+
+💬 **[P2P Chat System](https://github.com/Redsskull/p2pchat)** - Production-ready distributed chat with full mesh networking, automatic peer discovery via UDP multicast, and beautiful terminal UI. IRC-style commands, network resilience, cross-platform. **[Watch Demo](https://asciinema.org/a/ykPnzDlq7LGyskLnWRf5NWO1T)**
+
+💼 **[Stock Trading Simulator](https://github.com/Redsskull/stock-trading-simulator)** - Flask web application with PostgreSQL, SQLAlchemy ORM, user authentication, and real-time stock data via Finnhub API. Complete with database migrations and production deployment. **[Live Demo](https://stock-trading-simulator.onrender.com/)**
 
 🌤️ **[Weather Intelligence System](https://github.com/Redsskull/weather-intelligence-system)** - Go + Python hybrid system with pattern recognition and concurrent data collection. Making two languages talk through JSON orchestration.
 
-🎮 **[Warcraft Logs CLI](https://github.com/Redsskull/wclogs-cli)** - GraphQL API wrapper with OAuth2 authentication. Learned GraphQL by building a real tool for exploring combat log data.
+🎮 **[Warcraft Logs CLI](https://github.com/Redsskull/wclogs-cli)** - GraphQL API wrapper with OAuth2 authentication. Complex nested queries, terminal visualization, and data export.
 
-⚔️ **[War Card Game](https://github.com/Redsskull/war-card-game)** - My first complete project (CS50 final). Cross-platform Go GUI with Fyne framework, teaching me about asset bundling, cross-compilation, and shipping polished software.
+⚔️ **[War Card Game](https://github.com/Redsskull/war-card-game)** - Cross-platform GUI card game built with Go and Fyne. CS50 final project with professional packaging for Windows, Linux, and macOS.
 
-📖 **Knights and Creatures** - Python text adventure with branching narratives and class-specific story paths. My first solo project, inspired by Asimov's storytelling.
-
-💬 **P2P Chat System** *(in progress)* - IRC-style distributed chat. Building on my early internet roots with modern Go.
+📖 **[Knights and Creatures](https://github.com/Redsskull/Knights-and-Creatues)** - Python text adventure with branching narratives, four character classes, and multiple endings. Inspired by Asimov's storytelling.
 
 ## My Philosophy
 
-> "I build minds, not just software. I grew up on IRC and Usenet, so I understand how distributed systems work at a fundamental level. I prefer CLI tools because I care about the engine, but I'll build a GUI when the project needs it."
+> "I build minds, not just software. I grew up on IRC and Usenet, so I understand how distributed systems work at a fundamental level. I build the engines that make systems work."
 
 I focus on:
-- Systems that think and learn
-- Distributed networks that communicate
+- Distributed systems and P2P protocols
+- Backend services and API integration
+- Intelligent software that learns and adapts
 - Tools that solve real problems
-- Backend services that others depend on
 
 ## Tech Stack
 
-**Primary:** Go, Python, Bash, Podman
-**Learning:** Distributed systems, P2P protocols, GraphQL, system architecture
-**Background:** IRC, Usenet, Hotline - grew up understanding how networks actually work
+**Languages:** Go, Python, Bash, C  
+**Backend:** Flask, SQLAlchemy, PostgreSQL, REST, GraphQL, OAuth2  
+**Systems:** Distributed architecture, P2P protocols, network programming  
+**Tools:** Podman/Docker, Git, Linux (Arch)  
+**Interests:** Distributed systems, P2P networking, backend infrastructure, storytelling through code
 
 ```go
 // My coding philosophy in Go
@@ -46,31 +50,32 @@ func approach(problem Challenge) Solution {
 
 ## What Makes Me Different
 
-- 📡 **Early Internet Background** - IRC, Usenet, Hotline on classic Mac - I understand distributed systems from experience, not just textbooks
-- 🔧 **Systems Thinking** - I build from the foundation up, focusing on how things work internally
-- 🧠 **Intelligence-Focused** - From weather prediction to emergent game systems, I care about making software that thinks
-- 📖 **Code as Story** - From Asimov-inspired text adventures to intelligent weather systems
-- 🚀 **Ship-Focused** - I finish projects, even when they're hard
+- 📡 **Distributed Systems from Experience** - IRC, Usenet, Hotline - I understand P2P networking from my roots
+- 🔧 **Full Stack Capability** - From P2P mesh networks to Flask web apps to cross-platform GUIs
+- 🚀 **Production-Ready Projects** - Deployed applications, system installations, live demos
+- 🧠 **Systems Thinking** - Aviation and healthcare management background brings structured problem-solving
+- 📖 **Code as Story** - From Asimov-inspired adventures to distributed chat systems
 - 💬 **Honest Learner** - I document my journey, including the struggles
 
-## Recent Wins
+## Recent Accomplishments
 
-- ✅ Built weather prediction system with Go + Python orchestration
+- ✅ Built production-ready P2P chat with full mesh networking and UDP discovery
+- ✅ Deployed Flask web application with PostgreSQL and user authentication
 - ✅ Learned GraphQL by integrating with complex Warcraft Logs API
-- ✅ Shipped complete cross-platform game as CS50 final project
-- ✅ Created branching text adventure inspired by Asimov's storytelling
+- ✅ Shipped cross-platform game with professional packaging
+- ✅ Made Python and Go communicate through JSON orchestration
 - ✅ Hacktoberfest contributor (CI/CD, pytest, open source)
-- ✅ Made Python and Go talk through JSON (harder than it sounds)
 
 ## Currently
 
-🔨 Building a P2P chat system (IRC nostalgia meets modern Go)  
-📚 Polishing portfolio projects with comprehensive documentation  
-🎯 Preparing for junior backend/systems roles  
-💡 Learning in public, one head-bash at a time
+🔨 Building distributed systems and backend services  
+📚 Exploring advanced P2P protocols and network programming  
+🎯 Open to junior backend/distributed systems roles  
+💡 Learning in public, one project at a time
 
 ## Connect
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-nathanielivry.dev-blue?style=for-the-badge)](https://nathanielivry.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/redsskull/)
 
 ## Hackathon Achievements

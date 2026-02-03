@@ -29,7 +29,7 @@ A Go + Python system for concurrent data collection and pattern analysis, with s
 A terminal-based journaling application focused on expressive CLI design, persistence, and maintainable structure.  
 Built as an exploration of Ruby for backend-style logic and developer tooling.  
 **Tech:** Ruby, Bundler, CLI tooling  
-→ https://github.com/Redsskull/ruby-cli-journal
+→ https://github.com/Redsskull/journal
 
 ---
 

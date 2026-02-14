@@ -1,4 +1,4 @@
-# Nate Ivry — Backend & Systems-Oriented Developer
+# Nate Ivry — Backend Engineer
 
 I build backend and systems-level software with a focus on **distributed systems, networking, and developer-facing tools**.  
 My work emphasizes robustness, clarity, and software that is pleasant to use—whether that’s a backend service, a CLI, or a distributed system.
@@ -31,6 +31,12 @@ Built as an exploration of Ruby for backend-style logic and developer tooling.
 **Tech:** Ruby, Bundler, CLI tooling  
 → https://github.com/Redsskull/journal
 
+### War Card Game
+Full GUI card game built with Go and Fyne, featuring animations, sound effects, and cross-platform distribution.  
+Cross-compiled for Windows, Linux, and macOS using Zig. All assets bundled into single executable.  
+**Tech:** Go, Fyne, cross-compilation, GUI development  
+→ https://github.com/Redsskull/war-card-game
+
 ---
 
 ## Tech Focus
@@ -47,7 +53,7 @@ Built as an exploration of Ruby for backend-style logic and developer tooling.
 - Building backend and distributed systems projects  
 - Exploring developer tooling and CLI design  
 - Deepening knowledge in networking and system architecture  
-- Open to junior backend, systems, or infrastructure-oriented roles (remote / EU)
+- Open to junior backend engineering roles (remote / EU)
 
 ---
 

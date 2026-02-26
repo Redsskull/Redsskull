@@ -33,4 +33,4 @@ Currently freelancing while looking for a junior backend role in the EU.
 
 ---
 
-**Portfolio:** [nathanielivry.dev](https://nathanielivry.dev) · **LinkedIn:** [linkedin.com/in/nathanielivry](https://www.linkedin.com/in/nathanielivry)****
+**Portfolio:** [nathanielivry.dev](https://nathanielivry.dev) · **LinkedIn:** [linkedin.com/in/nathanielivry](https://www.linkedin.com/in/nathanielivry)
